@@ -1,1 +1,1 @@
-# Natural_Booster_Hospital is a Responsive Hospital website
+# Natural_Booster_Hospital is a Responsive Hospital Tampleate
